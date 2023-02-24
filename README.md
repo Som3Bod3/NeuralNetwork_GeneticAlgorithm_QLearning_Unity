@@ -31,7 +31,7 @@ Once you have the project up and running, you can start experimenting with the g
 - Observe how the neural network learns to navigate the track using both genetic algorithms and Q-learning
 - View the generation and episode statistics
 
-IMPORTANT: the code won't run Q-Learning after cloning the repo. It's missing several files from venv\Lib\site-packages\torch\lib\ that were exceeding 100Mb of size and I haven't found a way to upload them yet. Contact me directly if you want the files. 
+**IMPORTANT**: the code won't run Q-Learning after cloning the repo. It's missing several files from venv\Lib\site-packages\torch\lib\ that were exceeding 100Mb of size and I haven't found a way to upload them yet. Contact me directly if you want the files. 
 
 <br/>
 
